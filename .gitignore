@@ -1,0 +1,13 @@
+# Maxfiy fayllar
+.env
+credentials.json
+*.session
+
+# Database
+*.db
+
+# Media
+media/
+
+# Python
+__pycache__/
