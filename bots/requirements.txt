@@ -1,0 +1,7 @@
+aiogram>=3.17
+httpx>=0.28
+python-dotenv>=1.0.1
+
+# SaveMod dependencies
+telethon>=1.36
+# Google Sheets Apps Script orqali ishlaydi (gspread kerak emas)
